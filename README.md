@@ -1,7 +1,7 @@
 
 
-<h3 align=center> Tech Stack </h13>
-<p align=center> Techs that I've used at least once. </p>
+<h3 align=center> Tech Stack </h3>
+<p align=center> Techs that I've used at least once.</p>
 <!--
 **gagyeomkim/gagyeomkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
