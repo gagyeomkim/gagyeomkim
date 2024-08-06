@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align=center> Tech Stack </h1>
 
 <!--
 **gagyeomkim/gagyeomkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
