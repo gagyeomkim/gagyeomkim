@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Gagyeom's%20GitHub%20👋&animation=twinkling&fontSize=30&fontcolor=black&fontAlignY=40&fontAlign=65&height=250)  
-
-
-<h3 align=center> Tech Stack </h3>
-<p align=center> Techs that I've used at least once.</p>
 <!--
 **gagyeomkim/gagyeomkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
